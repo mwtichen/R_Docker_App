@@ -1,0 +1,6 @@
+R version 3.6.2
+Plumber 0.4.7.9000
+Forecast 8.11
+Docker Tool Box for Windows 10
+Python 3.7.4
+requests
